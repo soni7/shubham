@@ -1,0 +1,30 @@
+.pageLayout{
+    padding: 30px 200px;
+} 
+
+.mb{
+    margin-bottom: 20px;
+}
+
+.mt{
+    margin-top: 20px;
+}
+
+td{
+    text-align: center;
+}
+
+input{
+    width: 30%;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+}
+
+input:hover{
+    border: 1px solid black;
+}
+
+input:focus-visible{
+    border: 1px solid black !important;
+}
